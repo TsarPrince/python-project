@@ -1,0 +1,1 @@
+tracker = HandTracker(detectionCon=0.8)
